@@ -16,7 +16,7 @@ const joueurs = [
             "Golden State Warriors : depuis 2009"
         ],
         maillots: [
-            "../images/maillots/1-domicile.jpg",
+            "images/maillots/1-domicile.jpg",
             "../images/maillots/1-city.jpg"
         ]
     },

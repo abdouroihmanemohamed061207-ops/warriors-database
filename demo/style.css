@@ -23,7 +23,7 @@ body {
     font-family: Arial, sans-serif;
     color: var(--texte);
 
-    background-image: url("../images/Motif sportif Warriors sur fond bleu nuit.png");
+    background-image: url("images/Motif sportif Warriors sur fond bleu nuit.png");
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
